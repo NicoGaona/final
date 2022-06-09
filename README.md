@@ -20,7 +20,7 @@ Promedio:
 
 Extremo 2:
 
-- Hernan, veterinario.
+- Hernán, veterinario.
 - Le contaron que podría ponerle un logo a su consulta para alcanzar público más jóven, aunque a él no le parece tan buena ídea.
 - Hombre de 60-70 años, es veterinario especializado en caballos de carrera.
 - Tener más clientes en su consulta.
