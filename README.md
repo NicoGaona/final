@@ -4,7 +4,26 @@ Presenar mis trabajos como diseñador.
 
 # ¿Para quiénes es esta propuesta?
 
-Para 
+Extremo 1:
+
+- Josefina, estudiante de 4to medio.
+- Le interesa la carrera de diseño y quiere aprender más sobre que hacen los diseñadores.
+- Mujer de 17-18 años, está preparando la prueba PAES.
+- Entender mejor la carrera de diseño para no equivocarse al elegir su vocación.
+
+Promedio:
+
+- Miguel, contratista que busca un diseñador.
+- Tiene un proyecto nuevo y busca un diseñador para trabajar con él.
+- Hombre de 35-50 años, Trabaja en una compañía.
+- Elegir un buen diseñador que pueda satisfacer las necesidades de su proyecto.
+
+Extremo 2:
+
+- Hernan, veterinario.
+- Le contaron que podría ponerle un logo a su consulta para alcanzar público más jóven, aunque a él no le parece tan buena ídea.
+- Hombre de 60-70 años, es veterinario especializado en caballos de carrera.
+- Tener más clientes en su consulta.
 
 # ¿Qué existe que es similar a la propuesta?
 
@@ -50,3 +69,6 @@ Para
 - Muchos colores llamativos y tipografías interesantes pero me pierdo un poco en el sitio web y los tiempos de carga son muy largos.
 
 # ¿Qué existe que puede inspirar la propuesta?
+
+![Presentación sin título](https://user-images.githubusercontent.com/101114664/172753798-a9e1fed4-e5cd-4982-84d2-8aa2f3eef6ad.png)
+
