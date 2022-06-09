@@ -1,4 +1,4 @@
-# ¿Para qué es esta propuesta?
+## ¿Para qué es esta propuesta?
 
 Presenar mis trabajos como diseñador.
 
