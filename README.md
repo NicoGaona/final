@@ -11,10 +11,10 @@ Para
 1.- Richard Ekwonye
 ![Richard-Ekwonye-1](https://user-images.githubusercontent.com/101114664/172658530-7424b386-38a9-4d23-8372-41094e64e6fe.jpg)
 ![Richard-Ekwonye-2](https://user-images.githubusercontent.com/101114664/172658551-006f094f-8278-4a42-aaf3-127587db209a.jpg)
-Portafolio de Richard Ekwonye, creative developper.
-https://www.richardekwonye.com/
-Sitio web minimalista y limpio, se ve profesional.
-Paleta de colores un poco tosca, podría tener otros elementos más dínamicos.
+- Portafolio de Richard Ekwonye, creative developper.
+- https://www.richardekwonye.com/
+- Sitio web minimalista y limpio, se ve profesional.
+- Paleta de colores un poco tosca, podría tener otros elementos más dínamicos.
 
 2.- Keita Yamada
 ![Keita yamada](https://user-images.githubusercontent.com/101114664/172663539-ad235057-3d8b-4fbd-bdd2-61699fd68cb3.PNG)
